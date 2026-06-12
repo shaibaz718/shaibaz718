@@ -129,15 +129,15 @@ CGPA: **6.9**
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shaibaz718&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaibaz718&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaibaz718&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -158,7 +158,7 @@ CGPA: **6.9**
 
 💼 LinkedIn: https://www.linkedin.com/in/mohd-shaibaz-681854236
 
-🐙 GitHub: https://github.com/YOUR_USERNAME
+🐙 GitHub: https://github.com/shaibaz718
 
 ---
 

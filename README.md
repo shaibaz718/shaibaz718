@@ -122,28 +122,13 @@ CGPA: **6.9**
 
 ## 🏆 Certifications
 
-### Data Analyst Certification – ExcelR Solutions
+### 📜 Data Analyst Certification – ExcelR Solutions
 
-<p align="center">
-  <img src="certificates/excelr-data-analyst.jpg" width="800">
-</p>
+🔗 [View Certificate](PASTE_YOUR_DATA_ANALYST_CERTIFICATE_LINK_HERE)
 
----
+### 💼 Data Analyst Internship Certificate
 
-### SQL Certificate
-
-<p align="center">
-  <img src="certificates/sql-certificate.jpg" width="800">
-</p>
-
----
-
-### Power BI Certificate
-
-<p align="center">
-  <img src="certificates/powerbi-certificate.jpg" width="800">
-</p>
-
+🔗 [View Certificate](https://drive.google.com/file/d/16R9TrP3Ux6wwxr3FUDfTRZ4ENN-KFehc/view?usp=drivesdk)
 ---
 
 ## 📈 GitHub Stats

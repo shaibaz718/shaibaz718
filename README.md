@@ -120,9 +120,29 @@ CGPA: **6.9**
 
 ---
 
-## 🏆 Certification
+## 🏆 Certifications
 
-**Data Analyst Certification – ExcelR Solutions (2026)**
+### Data Analyst Certification – ExcelR Solutions
+
+<p align="center">
+  <img src="certificates/excelr-data-analyst.jpg" width="800">
+</p>
+
+---
+
+### SQL Certificate
+
+<p align="center">
+  <img src="certificates/sql-certificate.jpg" width="800">
+</p>
+
+---
+
+### Power BI Certificate
+
+<p align="center">
+  <img src="certificates/powerbi-certificate.jpg" width="800">
+</p>
 
 ---
 

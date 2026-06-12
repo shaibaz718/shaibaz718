@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/banner.png" width="100%" alt="Banner"/>
+  <img src="https://github.com/shaibaz718/shaibaz718/blob/main/banner.gif" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm MD Shaibaz</h1>

@@ -124,7 +124,7 @@ CGPA: **6.9**
 
 ### 📜 Data Analyst Certification – ExcelR Solutions
 
-🔗 [View Certificate](PASTE_YOUR_DATA_ANALYST_CERTIFICATE_LINK_HERE)
+🔗 [View Certificate](https://drive.google.com/file/d/1bDqqHA_7LUg9c_j-R5MIJhOmXv1It9iY/view?usp=sharing)
 
 ### 💼 Data Analyst Internship Certificate
 
